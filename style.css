@@ -3,7 +3,7 @@ body {
     background: black;
     margin: 0px;
     font-family: "Josefin Sans", sans-serif;
-margin-bottom: 100px;
+    margin-bottom: 100px;
 }
 
 header {
@@ -50,16 +50,16 @@ img {
     margin-top: 50px;
 }
 
-.categoria-videos img{
-opacity: 0.5;
-height: 200px;
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
 }
 
-.categoria-videos img:hover{
+.categoria-videos img:hover {
     opacity: 1.0;
     border: 1px solid blue;
 }
 
 .categoria h2 {
-color: rgb(148, 26, 26);
+    color: rgb(148, 26, 26);
 }
