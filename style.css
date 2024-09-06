@@ -17,6 +17,7 @@ header {
 .destaque {
     background: rgb(1, 99, 6);
     padding-bottom: 80px;
+    padding-left: 10px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
